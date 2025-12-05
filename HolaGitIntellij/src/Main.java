@@ -5,4 +5,7 @@ public class Main {
     public static void mostrarSaludo(String nombre) {
         System.out.println("¡Hola, " + nombre + "! Bienvenido al proyecto.");
     }
+    public static void mostrarSaludoNuevo(String nombre) {
+        System.out.println("¡Hola, " + nombre + "! Bienvenido al proyecto PERO NUEVO");
+    }
 }
